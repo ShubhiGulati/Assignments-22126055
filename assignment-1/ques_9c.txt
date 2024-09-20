@@ -1,0 +1,13 @@
+1.Reveals Data Trends: Helps understand relationships between variables.
+
+2.Model Choice: Balances simplicity (linear) and complexity (polynomial).
+
+3.Overfitting: Too complex; captures noise, poor generalization.
+
+4.Underfitting: Too simple; misses key patterns.
+
+5.Evaluation: Use metrics like R-squared to assess fit quality.
+
+6.Applications: Useful for prediction, smoothing, interpolation, and extrapolation.
+
+
